@@ -1,6 +1,6 @@
 # Pokecoin
 
-Está é uma simples aplicação para o cálculo de trades pokémon, onde o usuário pode calcular se sua carteira está valorizando e como.
+Esta é uma simples aplicação para o cálculo de trades pokémon, onde o usuário pode calcular se sua carteira está valorizando e como.
 Um pesquisador descobriu uma correlação monetária inesperada com relação a estes
 monstros virtuais. Com a alta do interesse por estes, após a criação do Pokémon Go, e o crescimento
 do uso de criptomoedas, blockchain e NFTs, este fato ficou cada vez mais evidente. A teoria é que a
