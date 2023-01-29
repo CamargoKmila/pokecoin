@@ -1,11 +1,9 @@
 # Pokecoin
 
-Esta é uma simples aplicação para o cálculo de trades pokémon, onde o usuário pode calcular se sua carteira está valorizando e como.
-Um pesquisador descobriu uma correlação monetária inesperada com relação a estes
-monstros virtuais. Com a alta do interesse por estes, após a criação do Pokémon Go, e o crescimento
-do uso de criptomoedas, blockchain e NFTs, este fato ficou cada vez mais evidente. A teoria é que a
-base de experiência (“base_experience”) de um Pokémon possui uma relação direta com sua cotação
-em Bitcoin (BTC). De forma que um ponto de experiência equivale a um satoshi (0.00000001 BTC).
+We offer an application to calculate pokémon trades. Our goal is to easier the process by allowing the user to calculate how and if his portfolio is appreciating. According to a study*, there is an unexpected monetary correlation with these virtual monsters. With the increasing interest in pokemon, especially after the creation of Pokémon Go, and the growing use of cryptocurrencies, blockchain and NFTs, these findings have become more evident. The theory suggests that the experience base (“base_experience”) of a Pokémon is direct related to its price in Bitcoin (BTC). Therefore, one experience point equals one satoshi (0.00000001 BTC).
+
+*This theory is a playful construction for the context of the exercise and without direct application
+expected in the real world.
 
 ## Index
 * [Project dependencies](#project-dependencies)
